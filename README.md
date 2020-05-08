@@ -1,4 +1,4 @@
-# Crush <img src="https://github.com/am1994/crush/blob/master/love-and-romance%20(1).png"  width="50" height="50" > 
+# Crush ![](https://github.com/am1994/crush/blob/master/love-and-romance%20(2).png)
 A new Flutter application.
 
 ## Getting Started
